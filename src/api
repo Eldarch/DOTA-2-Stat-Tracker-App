@@ -1,0 +1,25 @@
+
+
+
+//https://api.opendota.com/api/matches/6955044204
+
+//https://api.opendota.com/api/players/296485118/ratings
+
+//https://api.opendota.com/api/players/296485118/wordcloud
+
+//https://api.opendota.com/api/players/296485118/histograms/lane_role
+
+//https://api.opendota.com/api/players/296485118/pros
+
+//https://api.opendota.com/api/players/296485118/heroes   shows me all the wins I have with every hero and who I win with the most
+
+//https://api.opendota.com/api/players/296485118
+
+https://api.opendota.com/api/players/296485118/matches   
+#shows me the kda and xpm gpm and other stats for recent games
+
+// https://api.opendota.com/api/players/296485118/wl   total wins and losses
+
+//https://api.opendota.com/api/proMatches
+
+//https://api.opendota.com/api/matches/6955085445     //bunch of match information
